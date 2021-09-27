@@ -4,7 +4,7 @@ description: What is Shutter Network?
 
 # Shutter Network
 
-## ![](../../.gitbook/assets/image%20%283%29.png)Shutter Network[¶](https://docs.ata.network/mev/solutions/mev-minimization-prevention/#shutter-network)
+## ![](../../.gitbook/assets/image%20%283%29.png)Shutter Network
 
 Shutter Network is an open-source project that aims to prevent frontrunning and malicious MEV on Ethereum by using a threshold cryptography-based distributed key generation \(DKG\) protocol.
 

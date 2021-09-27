@@ -8,6 +8,8 @@ description: What is Conveyor?
 
 At Automata, we have created **Conveyor**, a service that ingests and outputs transactions in a determined order. This creates a front-running-free zone that removes the chaos of transaction reordering.
 
+![](../../.gitbook/assets/image%20%285%29.png)
+
 When transactions are fed into Conveyor, it determines the order of the incoming transactions and makes it impossible for block producers to perform the following:
 
 1. Inject new transactions into the Conveyor output: The inserted transactions bypassing Conveyor is detectable by anyone because of signature mismatch.

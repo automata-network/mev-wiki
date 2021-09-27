@@ -5,6 +5,7 @@
   * [What is Miner Extractable Value?](introduction/what-is-miner-extractable-value.md)
   * [Why does this matter?](introduction/why-does-this-matter.md)
   * [Just how bad is the problem?](introduction/just-how-bad-is-the-problem.md)
+* [Resource  List](resource-list.md)
 * [Terms and Concepts](terms-and-concepts/README.md)
   * [DeFi](terms-and-concepts/defi.md)
   * [Automated Market Maker](terms-and-concepts/automated-market-maker.md)
@@ -47,6 +48,5 @@
     * [Shutter Network](solutions/untitled-1/shutter-network.md)
   * [Other solutions](solutions/others.md)
 * [Miscellaneous](miscellaneous.md)
-* [Resource  List](resource-list.md)
 * [Contributions](contributions.md)
 

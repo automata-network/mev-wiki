@@ -13,7 +13,7 @@ We cover a range of topics including the key concepts, research on this the topi
 Tip
 
 1. Find any errors? Click the  icon on each page to contribute.
-2. Want to share your feedback? Contact us [**here** ](https://us2.list-manage.com/survey?u=ffeae60ea2fcc1c9fe0f8ce40&id=8d7d318a72&attribution=false).
+2. Want to share your feedback? Contact us [**here** ](mailto:enquiry@ata.network).
 
 ### ![](.gitbook/assets/image.png)What is Miner Extractable Value?
 

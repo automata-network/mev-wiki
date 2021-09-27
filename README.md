@@ -10,10 +10,9 @@ This is a public resource for learning about **Miner Extractable Value**.
 
 We cover a range of topics including the key concepts, research on this the topic, different approaches to tackling this issue and also Automata Network's approach.
 
-Tip
-
-1. Find any errors? Click the  icon on each page to contribute.
-2. Want to share your feedback? Contact us [**here** ](mailto:enquiry@ata.network).
+{% hint style="success" %}
+Find any errors or wants to share your opinions? See how you can contribute [here](contributions.md).
+{% endhint %}
 
 ### ![](.gitbook/assets/image.png)What is Miner Extractable Value?
 

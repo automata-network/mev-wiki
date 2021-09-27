@@ -4,12 +4,21 @@ description: Exploring the main concepts involving MEV.
 
 # Terms and Concepts
 
-* \*\*\*\*[DeFi](defi.md)
-* [Automated Market Maker](automated-market-maker.md)
-* [Lending Platforms](lending-platforms.md)
-* [Arbitrage](arbitrage.md)
-* [Slippage](slippage.md)
-* [Liquidations](liquidations.md)
-* [Priority gas auctions \(PGAs\)](priority-gas-auctions.md)
-* [Transaction Ordering](transaction-ordering.md)
+{% page-ref page="defi.md" %}
+
+{% page-ref page="automated-market-maker.md" %}
+
+{% page-ref page="lending-platforms.md" %}
+
+{% page-ref page="arbitrage.md" %}
+
+{% page-ref page="slippage.md" %}
+
+{% page-ref page="liquidations.md" %}
+
+{% page-ref page="priority-gas-auctions.md" %}
+
+{% page-ref page="transaction-ordering.md" %}
+
+
 

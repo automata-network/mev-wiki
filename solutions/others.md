@@ -4,7 +4,7 @@ description: What are the other solutions?
 
 # Other solutions
 
-### B.Protocol <a id="bprotocol"></a>
+### ![](../.gitbook/assets/image%20%284%29.png) B.Protocol <a id="bprotocol"></a>
 
 BProtocol aims to shift MEV to users.
 

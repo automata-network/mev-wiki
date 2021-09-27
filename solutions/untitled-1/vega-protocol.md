@@ -4,6 +4,8 @@ description: What is vega protocol?
 
 # Vega protocol
 
+## ![](../../.gitbook/assets/image%20%283%29.png)Vega Protocol
+
 Traditionally, fairness in a blockchain has been defined in absolute terms, i.e. once a transaction is seen by a sufficient number of validators, it will be executed in some block, soon. Vega's proposal is to add a module to blockchains that supports the concept of relative fairness so that competing transactions may be sequenced under a known and understood protocol, and not subject to a validator’s discretion.
 
 "_If there is a time t such that all honest validators saw a before t and b after t, then a must be scheduled before b”._ This is a property that can be assured of at any time with a minimal impact on performance.

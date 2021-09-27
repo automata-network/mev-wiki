@@ -4,7 +4,7 @@ description: What is Conveyor?
 
 # Conveyor \(Automata Network\)
 
-Conveyor - The Automata Network approach to tackling MEV
+## ![](../../.gitbook/assets/image%20%283%29.png)Conveyor - The Automata Network approach to tackling MEV
 
 At Automata, we have created **Conveyor**, a service that ingests and outputs transactions in a determined order. This creates a front-running-free zone that removes the chaos of transaction reordering.
 

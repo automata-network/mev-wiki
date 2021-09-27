@@ -4,7 +4,9 @@ description: What is arbitrum?
 
 # Arbitrum \(Offchain Labs\)
 
-Arbitrum is against MEVA and FaaS.
+## ![](../../.gitbook/assets/image%20%283%29.png)Arbitrum by Offchain Labs
+
+### Arbitrum is against MEVA and FaaS.
 
 3 Modes of Arbitrum:
 

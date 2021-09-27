@@ -6,17 +6,15 @@ description: MEV minimization and prevention solutions.
 
 ### Conveyor - The Automata Network approach to tackling MEV <a id="conveyor-the-automata-network-approach-to-tackling-mev"></a>
 
-* [Conveyor](conveyor-automata-network.md)
-* [Fair sequencing service](fair-sequencing-service-chainlink.md)
-* [Arbitrum](arbitrum-offchain-labs.md)
-* [Vega protocol](vega-protocol.md)
-* [CowSwap](cowswap.md)
-* [Veedo](veedo-starkware.md)
-* [LibSubmarine](libsubmarine.md)
-* [Sikka](sikka.md)
-* [Shutter Network](shutter-network.md)
-
-### ![&#x1F6E1;](https://twemoji.maxcdn.com/v/latest/svg/1f6e1.svg)  <a id="the-fair-sequencing-service-by-chainlink"></a>
+* ![](../../.gitbook/assets/image%20%283%29.png) [Conveyor](conveyor-automata-network.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[Fair sequencing service](fair-sequencing-service-chainlink.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[Arbitrum](arbitrum-offchain-labs.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[Vega protocol](vega-protocol.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[CowSwap](cowswap.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[Veedo](veedo-starkware.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[LibSubmarine](libsubmarine.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[Sikka](sikka.md)
+* ![](../../.gitbook/assets/image%20%283%29.png)[Shutter Network](shutter-network.md)
 
 ### ![&#x1F6E1;](https://twemoji.maxcdn.com/v/latest/svg/1f6e1.svg)  <a id="arbitrum-by-offchain-labs"></a>
 

@@ -44,4 +44,5 @@
   * [Other solutions](solutions/others.md)
 * [Miscellaneous](miscellaneous.md)
 * [Resource  List](resource-list.md)
+* [Contributions](contributions.md)
 

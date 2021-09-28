@@ -4,10 +4,15 @@ description: Some example of attacks.
 
 # Attack Examples
 
-* [Front-Running](front-running.md)
-* [Sandwich Attacks](sandwich-attack.md)
-* [Back-Running](back-running.md)
-* [Liquidations](liquidations.md)
-* [Time bandit attacks](time-bandit-attack.md)
-* [Uncle bandit attacks](uncle-bandit-attack.md)
+{% page-ref page="front-running.md" %}
+
+{% page-ref page="sandwich-attack.md" %}
+
+{% page-ref page="back-running.md" %}
+
+{% page-ref page="liquidations.md" %}
+
+{% page-ref page="time-bandit-attack.md" %}
+
+{% page-ref page="uncle-bandit-attack.md" %}
 

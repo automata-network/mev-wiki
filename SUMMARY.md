@@ -24,6 +24,7 @@
   * [Other attempts to trick the bot](attempts-to-trick-the-bots/other-attempts-to-trick-the-bot.md)
 * [Solutions](solutions/README.md)
   * [Front-running as a Service \(FaaS\) or MEV Auctions \(MEVA\)](solutions/faas-or-meva/README.md)
+    * [Private Transactions](solutions/faas-or-meva/private-transactions.md)
     * [BackRunMe by bloXroute](solutions/faas-or-meva/backrunme-by-bloxroute.md)
     * [Flashbots](solutions/faas-or-meva/flashbots.md)
     * [mistX by alchemist](solutions/faas-or-meva/mistx-by-alchemist.md)

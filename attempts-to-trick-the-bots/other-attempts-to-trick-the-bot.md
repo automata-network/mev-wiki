@@ -30,3 +30,7 @@ It is estimated that the first person to do this made about 100 ETH. You can see
 
 One of their victims was one the most successful Flashbots bot operators, and they immediately sprung into action. In a short period of time the victim turned into an apex predator. They launched a similar but slightly different ERC20 \(YOLOchain\), and ended up successfully baiting many more sandwichers. They made 300 ETH doing so!
 
+{% hint style="info" %}
+Link: [https://twitter.com/bertcmiller/status/1381296074086830091?s=20](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
+{% endhint %}
+

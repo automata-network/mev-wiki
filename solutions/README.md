@@ -7,8 +7,15 @@ There are largely 2 schools of thought when it comes to approaching the MEV prob
 1. Offense - MEV is here to stay so let's find a way to extract and democratize it.
 2. Defense - MEV is bad so let's try to prevent it.
 
-As such we have put approaches into 2 categories
+As such, we have put different approaches into 3 categories:
 
-1. [MEV Auctions \(MEVA\) & Front-running as a Service \(FaaS\)](faas-or-meva/)
-2. [MEV Minimization & Prevention](mev-minimization/)
+{% page-ref page="faas-or-meva/" %}
+
+{% page-ref page="mev-minimization/" %}
+
+{% page-ref page="others.md" %}
+
+
+
+
 

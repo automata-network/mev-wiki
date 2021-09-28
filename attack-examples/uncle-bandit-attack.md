@@ -16,3 +16,7 @@ A Sandwicher's bundle was included in an uncled block. An attacker saw this, gra
 
 Instead of seeing something late in time and rewinding it \(time-bandit attack\), the uncle bandit attack is when an attacker sees something in an uncle and brings it forward. This also shows that attacks extend beyond the mempool and into uncled blocks as well.
 
+{% hint style="info" %}
+[https://twitter.com/bertcmiller/status/1382673587715342339?s=20](https://twitter.com/bertcmiller/status/1382673587715342339?s=20)
+{% endhint %}
+

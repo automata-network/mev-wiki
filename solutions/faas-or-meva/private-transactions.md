@@ -12,7 +12,7 @@ Taichi Network allows users to send private transactions directly to [Sparkpool,
 
 [bloXroute Labs](https://bloxroute.com/) has a wide range of offerings and their core competency is low global latency for DeFi \(8% of blocks mined within 1 sec\).
 
-{% hint style="success" %}
+{% hint style="warning" %}
 For the other side of the coin, here is bloXroute Labs' take on why private mempools are not necessarily bad[¹](https://docs.bloxroute.com/apis/frontrunning-protection):
 
 1. Front-runners don't need these services to outpace regular users, who are slower by seconds. They need it to outpace one another, where improving speed 0.8-&gt;0.15 sec matters.
@@ -20,8 +20,7 @@ For the other side of the coin, here is bloXroute Labs' take on why private memp
 {% endhint %}
 
 {% hint style="info" %}
-**1:**  
-[ https://docs.bloxroute.com/apis/frontrunning-protection](https://docs.bloxroute.com/apis/frontrunning-protection)
+**Link:**[ ****https://docs.bloxroute.com/apis/frontrunning-protection](https://docs.bloxroute.com/apis/frontrunning-protection) ↩¹
 {% endhint %}
 
 

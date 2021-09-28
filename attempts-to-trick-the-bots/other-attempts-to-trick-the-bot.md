@@ -5,7 +5,7 @@ description: What are the other attempts to trick the bot?
 # Other attempts to trick the bot
 
 {% hint style="info" %}
-Link: [https://twitter.com/bertcmiller/status/1381296074086830091?s=20](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
+**Link:** [https://twitter.com/bertcmiller/status/1381296074086830091?s=20](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
 {% endhint %}
 
 #### Background <a id="background"></a>

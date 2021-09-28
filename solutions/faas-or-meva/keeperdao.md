@@ -1,6 +1,6 @@
 # KeeperDAO
 
-### ![](../../.gitbook/assets/image%20%288%29.png)KeeperDAO
+### ![](../../.gitbook/assets/image%20%2810%29.png)KeeperDAO
 
 KeeperDAO is similar to a mining pool for Keepers. By incentivizing a game theory optimal strategy for cooperation among on-chain arbitrageurs, KeeperDAO provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols.
 

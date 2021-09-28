@@ -1,6 +1,6 @@
 # MiningDAO
 
-### ![](../../.gitbook/assets/image%20%288%29.png)MiningDAO
+### ![](../../.gitbook/assets/image%20%2810%29.png)MiningDAO
 
 MiningDAO is building a decentralized and transparent protocol for block formation that aims to pass 100% of MEV to miners. Anyone with an Ethereum address can propose the next block to be mined \(via a block sealhash\), and attach a bounty for successfully mining it. The mining pools would then mine on the highest-bounty proposal.
 

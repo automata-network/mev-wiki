@@ -1,6 +1,6 @@
 # Optimism
 
-### ![](../../.gitbook/assets/image%20%288%29.png)Optimism
+### ![](../../.gitbook/assets/image%20%2810%29.png)Optimism
 
 Optimism are the original proposers of MEVA.
 

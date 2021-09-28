@@ -1,6 +1,6 @@
 # BackBone Cabal
 
-### ![](../../.gitbook/assets/image%20%288%29.png)BackBone Cabal
+### ![](../../.gitbook/assets/image%20%2810%29.png)BackBone Cabal
 
 BackBone Cabal is a strategy that aims to extract MEV from SushiSwap. Profits are redistributed back to users who submitted trades in the first place in the form of eliminating their transaction cost \(up to 90%\).
 

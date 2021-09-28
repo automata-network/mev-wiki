@@ -6,20 +6,22 @@ description: Welcome to the MEV Wiki.
 
 ## ![](.gitbook/assets/image%20%281%29.png) Introduction <a id="introduction"></a>
 
-This is a public resource for learning about **Miner Extractable Value**.
+This is a public resource for learning about **MEV \(Maximal Extractable Value\).**
 
-We cover a range of topics including the key concepts, research on this the topic, different approaches to tackling this issue and also Automata Network's approach.
+We cover a range of topics including the key concepts, research on this the topic, different approaches to tackling this issue by various projects out there. 
 
 {% hint style="success" %}
 Find any errors or wants to share your opinions?  
 See how you can contribute [here](contributions.md).
 {% endhint %}
 
-### ![](.gitbook/assets/image.png)What is Miner Extractable Value?
+### ![](.gitbook/assets/image.png)What is MEV?
 
-When one sends a transaction on the blockchain, there is a delay between the time when the transaction is broadcast to the network and when it is actually mined into a block. During this period, transactions sit in a pending transaction pool called the mempool where contents are visible to everyone. Arbitrageurs and miners can monitor the mempool and find opportunities to maximize their own profits e.g. by frontrunning transactions. If a front-runner is a miner, they can also reorder or even censor transactions.
+Maximal \(formerly "miner" in the context of Proof of Work\) extractable value \(MEV\) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by censoring and/or changing the order of transactions in a block.
 
-Miner Extractable Value refers to the amount of profit that can be extracted from reordering and censoring transactions on the blockchain.
+When one sends a transaction on the blockchain, there is a delay between the time when the transaction is broadcast to the network and when it is actually mined into a block. During this period, transactions sit in a pending transaction pool called the mempool where contents are visible to everyone. Arbitrageurs and miners can monitor the mempool and find opportunities to maximize their own profits e.g. by frontrunning transactions. If a front-runner is a miner, they can also reorder or even censor transactions. MEV income can also be shared with non miners & traders who participate in some profit sharing schemes within the category of [FaaS/MEVA](solutions/faas-or-meva/).
+
+
 
 ### ![](.gitbook/assets/image.png)Why does this matter[¹](https://research.paradigm.xyz/MEV)?
 
@@ -33,11 +35,17 @@ If block rewards are small enough compared to MEV, it can be rational for miners
 
 ### ![](.gitbook/assets/image.png)Just how bad is the problem? <a id="just-how-bad-is-the-problem"></a>
 
-The [Flashbots Dashboard ](https://explore.flashbots.net/) tracks Extracted MEV over time.
+You can use the [Flashbots Dashboard ](https://explore.flashbots.net/)to track Extracted MEV to better assess this worsening trend realtime.
 
-It is estimated that &gt;$500M has been extracted since 1st January 2020.
+![Snapshot of Extracted MEV on 28 Sep 2021 from Flashbots](.gitbook/assets/screenshot-2021-09-28-at-6.09.47-pm.png)
 
-[Dune Analytics ](https://duneanalytics.com/phabc/backrunning-bots-gas-consumption) tracks Gas consumption by back-running bots.
+It is estimated that more than $727M of MEV has been extracted since 1st January 2020.
+
+![Snapshot of Extracted MEV Split on 28 Sep 2021 from Flashbots](.gitbook/assets/screenshot-2021-09-28-at-6.22.56-pm.png)
+
+The majority of extracted MEV tend to be from [Arbitrage](terms-and-concepts/arbitrage.md) opportunities on various [AMMs](terms-and-concepts/automated-market-maker.md), with a large percentage of income going to searchers, bots & participants in profit sharing MEV infrastructures \(eg. [Flashbot's](solutions/faas-or-meva/flashbots.md) MEV-GETH\)
+
+Another useful tracker for gas consumption of back-running bots:  [Dune Analytics](https://duneanalytics.com/phabc/backrunning-bots-gas-consumption) provides very detailed statistics on this worsening MEV situation.
 
 {% hint style="info" %}
 **Link:**  

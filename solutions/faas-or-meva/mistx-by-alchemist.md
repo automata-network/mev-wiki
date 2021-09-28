@@ -1,6 +1,6 @@
 # mistX by alchemist
 
-### ![](../../.gitbook/assets/image%20%288%29.png)MistX by alchemist <a id="backrunme-by-bloxroute"></a>
+### ![](../../.gitbook/assets/image%20%2810%29.png)MistX by alchemist <a id="backrunme-by-bloxroute"></a>
 
 mistX is a DEX that enables end users to send transactions through Flashbots bundles. All transactions are gasless. However, instead of paying gas to the miners mistX users pay miners a bribe/tip in ETH. The tip is either included in the trade or comes from the user's wallet.
 

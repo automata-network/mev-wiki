@@ -35,6 +35,7 @@
     * [BackBone Cabal](solutions/faas-or-meva/backbone-cabal.md)
   * [MEV Minimization](solutions/mev-minimization/README.md)
     * [Conveyor \(Automata Network\)](solutions/mev-minimization/conveyor-automata-network.md)
+    * [SecretSwap \(Secret Network\)](solutions/mev-minimization/secretswap-secret-network.md)
     * [Fair sequencing service \(Chainlink\)](solutions/mev-minimization/fair-sequencing-service-chainlink.md)
     * [Arbitrum \(Offchain Labs\)](solutions/mev-minimization/arbitrum-offchain-labs.md)
     * [Vega protocol](solutions/mev-minimization/vega-protocol.md)

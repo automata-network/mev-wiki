@@ -1,6 +1,6 @@
 # Flashbots
 
-### ![](../../.gitbook/assets/image%20%288%29.png)Flashbots <a id="backrunme-by-bloxroute"></a>
+### ![](../../.gitbook/assets/image%20%2810%29.png)Flashbots <a id="backrunme-by-bloxroute"></a>
 
 Flashbots is a research and development organization formed to mitigate the negative externalities and existential risks posed by MEV. They aim to Democratize MEV Extraction through MEV-Geth, which enables a sealed-bid block space auction mechanism for communicating transaction order preference.
 

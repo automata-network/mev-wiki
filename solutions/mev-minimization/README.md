@@ -8,6 +8,8 @@ description: MEV minimization and prevention solutions.
 
 {% page-ref page="conveyor-automata-network.md" %}
 
+{% page-ref page="secretswap-secret-network.md" %}
+
 {% page-ref page="fair-sequencing-service-chainlink.md" %}
 
 {% page-ref page="arbitrum-offchain-labs.md" %}

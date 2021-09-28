@@ -8,9 +8,9 @@ description: Exploring the main concepts involving MEV.
 
 {% page-ref page="automated-market-maker.md" %}
 
-{% page-ref page="lending-platforms.md" %}
-
 {% page-ref page="arbitrage.md" %}
+
+{% page-ref page="lending-platforms.md" %}
 
 {% page-ref page="slippage.md" %}
 

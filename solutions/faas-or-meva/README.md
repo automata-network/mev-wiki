@@ -8,11 +8,11 @@ In a FaaS or MEVA system, MEV is extracted in a variety of ways such as miners a
 
 > _'Centralizing MEV extraction is good because it quarantines a revenue stream that could otherwise drive centralization in other sectors.'_
 >
-> _Vitalik Buterin_
+> _Vitalik Buterin_ [🔗](https://medium.com/@VitalikButerin/i-feel-like-this-post-is-addressing-an-argument-that-isnt-the-actual-argument-that-mev-auction-b3c5e8fc1021)
 
 > _'In this article, I’m going to go deep into my personal arguments for why extracting MEV in cryptocurrencies isn’t like theft, why it is a critical metric for network security in any distributed system secured by economic incentives \(yes, including centralized ones\), and what we should do about MEV in the next 3-5 years as a community.'_
 >
-> Phil Daian, co-author of Flash Boys 2.0
+> Phil Daian, co-author of Flash Boys 2.0 [🔗](https://pdaian.com/blog/mev-wat-do/)
 
 
 

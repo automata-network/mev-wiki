@@ -12,6 +12,6 @@ Sikka's MEV solution to censorship and frontrunning problems is using a techniqu
 **Links:**
 
 * Website: [https://sikka.tech/](https://sikka.tech/)
-* [https://docs.google.com/presentation/d/1tQEUpZjy\_U9J-VQAx1Wf5W9oOX5rrCY3AwjAb7ZgA68/edit\#slide=id.p](https://docs.google.com/presentation/d/1tQEUpZjy_U9J-VQAx1Wf5W9oOX5rrCY3AwjAb7ZgA68/edit#slide=id.p)
+* Presentation: [https://docs.google.com/presentation/d/1tQEUpZjy\_U9J-VQAx1Wf5W9oOX5rrCY3AwjAb7ZgA68/edit\#slide=id.p](https://docs.google.com/presentation/d/1tQEUpZjy_U9J-VQAx1Wf5W9oOX5rrCY3AwjAb7ZgA68/edit#slide=id.p)
 {% endhint %}
 

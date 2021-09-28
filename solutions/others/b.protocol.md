@@ -10,7 +10,7 @@ Users interact with existing lending platforms via B.Protocol smart contract. Li
 **Links:**
 
 * Website: [https://www.bprotocol.org/](https://www.bprotocol.org/)
-* [https://docs.google.com/presentation/d/13UNysGCX9ZJG20lKaxr\_qbhgKwcuHACdwlhGNKtzGt4/edit](https://docs.google.com/presentation/d/13UNysGCX9ZJG20lKaxr_qbhgKwcuHACdwlhGNKtzGt4/edit)
+* Presentation: [https://docs.google.com/presentation/d/13UNysGCX9ZJG20lKaxr\_qbhgKwcuHACdwlhGNKtzGt4/edit](https://docs.google.com/presentation/d/13UNysGCX9ZJG20lKaxr_qbhgKwcuHACdwlhGNKtzGt4/edit)
 {% endhint %}
 
 

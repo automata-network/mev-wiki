@@ -14,7 +14,7 @@ VeeDo is StarkWare’s STARK-based Verifiable Delay Function \(VDF\), and its Po
 
 * Website: [https://starkware.co/](https://starkware.co/)
 * Medium: [https://medium.com/starkware/presenting-veedo-e4bbff77c7ae](https://medium.com/starkware/presenting-veedo-e4bbff77c7ae)
-* [https://docs.google.com/presentation/d/1C\_Rb\_rtUXT2Nkettu\_GPSlD9yCge8ioBNLRj5OBNbyY/edit\#slide=id.gb576f94980\_0\_836](https://docs.google.com/presentation/d/1C_Rb_rtUXT2Nkettu_GPSlD9yCge8ioBNLRj5OBNbyY/edit#slide=id.gb576f94980_0_836)
+* Presentation: [https://docs.google.com/presentation/d/1C\_Rb\_rtUXT2Nkettu\_GPSlD9yCge8ioBNLRj5OBNbyY/edit\#slide=id.gb576f94980\_0\_836](https://docs.google.com/presentation/d/1C_Rb_rtUXT2Nkettu_GPSlD9yCge8ioBNLRj5OBNbyY/edit#slide=id.gb576f94980_0_836)
 {% endhint %}
 
 

@@ -4,7 +4,20 @@ Typically, transactions are broadcast to the mempool where they remain pending u
 
 Examples include [1inch Exchange's Stealth Transactions](https://help.1inch.io/en/articles/4695716-what-are-stealth-transactions-and-how-they-work), [Taichi Network](https://taichi.network/) and [BloXroute](backrunme-by-bloxroute.md).
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![Private Transactions offered by Taichi Network](../../.gitbook/assets/image%20%286%29.png)
 
-[_Private Transactions offered by Taichi Network_](https://taichi.network/)
+[bloXroute Labs](https://bloxroute.com/) has a wide range of offerings and their core competency is low global latency for DeFi \(8% of blocks mined within 1 sec\).
+
+{% hint style="success" %}
+For the other side of the coin, here is bloXroute Labs' take on why private mempools are not necessarily bad:
+
+1. Front-runners don't need these services to outpace regular users, who are slower by seconds. They need it to outpace one another, where improving speed 0.8-&gt;0.15 sec matters.
+2. When a transaction is privately sent to pools other frontrunners can't attempt to front-run it. This helps avoid fierce escalation of fees.
+{% endhint %}
+
+{% hint style="info" %}
+Links:[ https://docs.bloxroute.com/apis/frontrunning-protection](https://docs.bloxroute.com/apis/frontrunning-protection)
+{% endhint %}
+
+
 

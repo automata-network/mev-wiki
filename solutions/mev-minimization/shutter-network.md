@@ -1,7 +1,3 @@
----
-description: What is Shutter Network?
----
-
 # Shutter Network
 
 ## ![](../../.gitbook/assets/image%20%283%29.png)Shutter Network

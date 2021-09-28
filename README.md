@@ -11,7 +11,8 @@ This is a public resource for learning about **Miner Extractable Value**.
 We cover a range of topics including the key concepts, research on this the topic, different approaches to tackling this issue and also Automata Network's approach.
 
 {% hint style="success" %}
-Find any errors or wants to share your opinions? See how you can contribute [here](contributions.md).
+Find any errors or wants to share your opinions?  
+See how you can contribute [here](contributions.md).
 {% endhint %}
 
 ### ![](.gitbook/assets/image.png)What is Miner Extractable Value?
@@ -38,7 +39,10 @@ It is estimated that &gt;$500M has been extracted since 1st January 2020.
 
 [Dune Analytics ](https://duneanalytics.com/phabc/backrunning-bots-gas-consumption) tracks Gas consumption by back-running bots.
 
-## 
+{% hint style="info" %}
+**Link:**  
+According to [https://research.paradigm.xyz/MEV](https://research.paradigm.xyz/MEV) ↩¹
+{% endhint %}
 
-1. _According to_ [_https://research.paradigm.xyz/MEV_](https://research.paradigm.xyz/MEV) __[_↩_](https://docs.ata.network/mev/introduction/#fnref:1)\_\_
+
 

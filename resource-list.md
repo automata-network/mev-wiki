@@ -1,6 +1,6 @@
 # Resource  List
 
-## ![](.gitbook/assets/image%20%282%29.png) **Resource Links**
+## ![](.gitbook/assets/image%20%282%29.png) **Links**
 
 | Name | **Type** |
 | :--- | ---: |

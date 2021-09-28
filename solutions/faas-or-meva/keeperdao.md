@@ -1,8 +1,6 @@
----
-description: What is KeeperDAO?
----
-
 # KeeperDAO
+
+### ![](../../.gitbook/assets/image%20%288%29.png)KeeperDAO
 
 KeeperDAO is similar to a mining pool for Keepers. By incentivizing a game theory optimal strategy for cooperation among on-chain arbitrageurs, KeeperDAO provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols.
 
@@ -17,4 +15,12 @@ Users route their trades and loans through KeeperDAO, which attempts to extract 
 #### kCompound \(Phase 2 of the Hiding Game\) <a id="kcompound-phase-2-of-the-hiding-game"></a>
 
 kCompound is the second phase of the Hiding Game. KeeperDAO posts collateral to save your position from being publicly liquidated. Instead, you get privately liquidated. KeeperDAO keeper will then find the best price for your collateral, targeting a 5% profit margin. This profit will then be split between you, the keeper, and the KeeperDAO treasury, meaning that kCompound borrowers will receive a portion of the profits from their own liquidation.
+
+{% hint style="info" %}
+**Links:**
+
+* Website: [https://keeperdao.com/\#/](https://keeperdao.com/#/)
+* Wiki: [https://github.com/keeperdao/docs/wiki](https://github.com/keeperdao/docs/wiki)
+* kCompound: [https://medium.com/keeperdao/introducing-kcompound-a23511c847a0](https://medium.com/keeperdao/introducing-kcompound-a23511c847a0)
+{% endhint %}
 

@@ -43,7 +43,8 @@
     * [LibSubmarine](solutions/mev-minimization/libsubmarine.md)
     * [Sikka](solutions/mev-minimization/sikka.md)
     * [Shutter Network](solutions/mev-minimization/shutter-network.md)
-  * [Other solutions](solutions/others.md)
+  * [Other solutions](solutions/others/README.md)
+    * [B.Protocol](solutions/others/b.protocol.md)
 * [Miscellaneous](miscellaneous.md)
 * [Contributions](contributions.md)
 

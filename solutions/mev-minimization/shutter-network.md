@@ -18,3 +18,10 @@ A Shutter transaction flow:
 4. Sent to the executor contract, and
 5. Forwarded to the target contract.
 
+{% hint style="info" %}
+**Links:**
+
+* Website: [https://shutter.ghost.io/](https://shutter.ghost.io/)
+* GitHub: [https://github.com/brainbot-com/shutter](https://github.com/brainbot-com/shutter)
+{% endhint %}
+

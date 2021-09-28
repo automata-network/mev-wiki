@@ -18,12 +18,21 @@ In a FaaS or MEVA system, MEV is extracted in a variety of ways such as miners a
 
 ### _See the various solutions:_ <a id="flashbots"></a>
 
-* [BackRunMe](backrunme-by-bloxroute.md)
-* [Flashbots](flashbots.md)
-* [mistX](mistx-by-alchemist.md)
-* [KeeperDAO](keeperdao.md)
-* [ArcherSwap](archerswap.md)
-* [Optimism](optimism.md)
-* [MiningDAO](miningdao.md)
-* [BackBone Cabal](backbone-cabal.md)
+{% page-ref page="private-transactions.md" %}
+
+{% page-ref page="backrunme-by-bloxroute.md" %}
+
+{% page-ref page="flashbots.md" %}
+
+{% page-ref page="mistx-by-alchemist.md" %}
+
+{% page-ref page="keeperdao.md" %}
+
+{% page-ref page="archerswap.md" %}
+
+{% page-ref page="optimism.md" %}
+
+{% page-ref page="miningdao.md" %}
+
+{% page-ref page="backbone-cabal.md" %}
 

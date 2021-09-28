@@ -1,12 +1,12 @@
----
-description: What is Optimism?
----
-
 # Optimism
+
+### ![](../../.gitbook/assets/image%20%288%29.png)Optimism
 
 Optimism are the original proposers of MEVA.
 
 MEV Auction \(MEVA\) is created in which the winner of the auction has the right to reorder submitted transactions and insert their own, as long as they do not delay any specific transaction by more than N blocks.
+
+![MEVA on Ethereum](../../.gitbook/assets/image%20%287%29.png)
 
 #### Implementing the Auction <a id="implementing-the-auction"></a>
 
@@ -23,4 +23,12 @@ Sequencers are elected by a smart contract managed auction run by the block prod
 #### Implementation on Layer 2 <a id="implementation-on-layer-2"></a>
 
 It is possible to enshrine this MEVA contract directly on layer 1 \(L1\) blockchain consensus protocols. However, it is also possible to non-invasively add this mechanism in layer 2 \(L2\) and use it to manage Optimistic Rollup transactio ordering. In L2, L1 miners are repurposed and utilized as block proposers. MEVA contract is implemented and designated a single sequencer at a time.
+
+{% hint style="info" %}
+**Links:**
+
+* [https://optimism.io/](https://optimism.io/)
+* [https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
+* [https://docs.google.com/presentation/d/1RaF1byflrLF3yUjd-5vXDZB1ZIRofVeK3JYVD6NPr30/edit\#slide=id.gc9bdacc472\_0\_96](https://docs.google.com/presentation/d/1RaF1byflrLF3yUjd-5vXDZB1ZIRofVeK3JYVD6NPr30/edit#slide=id.gc9bdacc472_0_96)
+{% endhint %}
 

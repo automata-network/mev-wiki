@@ -1,12 +1,8 @@
----
-description: What is arbitrum?
----
-
 # Arbitrum \(Offchain Labs\)
 
 ## ![](../../.gitbook/assets/image%20%283%29.png)Arbitrum by Offchain Labs
 
-### Arbitrum is against MEVA and FaaS.
+#### Arbitrum is against MEVA and FaaS.
 
 3 Modes of Arbitrum:
 
@@ -21,4 +17,12 @@ description: What is arbitrum?
 3. **No Sequencer: No L2 MEV**
 
    A chain can be created in which no permissioned entities have Sequencing rights. Ordering is determined entirely by the Inbox contract; lose the ability to get lower latency than L1, but gain is that no party involved in L2, including Arbitrum validators, has any say in transaction ordering, and thus no L2 MEV enters the picture.
+
+{% hint style="info" %}
+**Links:**
+
+* Website: [https://offchainlabs.com/](https://offchainlabs.com/)
+* Medium: [https://medium.com/offchainlabs/front-running-as-a-service-334c929c945](https://medium.com/offchainlabs/front-running-as-a-service-334c929c945)
+* [https://docs.google.com/document/d/1VOACGgTR84XWm5lH5Bki2nBcImi3lVRe2tYxf5F6XbA/edit](https://docs.google.com/document/d/1VOACGgTR84XWm5lH5Bki2nBcImi3lVRe2tYxf5F6XbA/edit)
+{% endhint %}
 

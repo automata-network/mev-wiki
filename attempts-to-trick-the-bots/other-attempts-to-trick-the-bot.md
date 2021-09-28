@@ -4,6 +4,10 @@ description: What are the other attempts to trick the bot?
 
 # Other attempts to trick the bot
 
+{% hint style="info" %}
+Link: [https://twitter.com/bertcmiller/status/1381296074086830091?s=20](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
+{% endhint %}
+
 #### Background <a id="background"></a>
 
 Instead of users paying transaction fees via gas prices, Flashbots users pay fees via a smart contract call which transfers ETH to a miner. Miners receive bundles of transaction from users and include the bundle that pays them the most. Users love this because they only pay for transactions that are included and they can determine the fee that they are going to pay.
@@ -29,8 +33,4 @@ It is estimated that the first person to do this made about 100 ETH. You can see
 #### From Victim to Predator <a id="from-victim-to-predator"></a>
 
 One of their victims was one the most successful Flashbots bot operators, and they immediately sprung into action. In a short period of time the victim turned into an apex predator. They launched a similar but slightly different ERC20 \(YOLOchain\), and ended up successfully baiting many more sandwichers. They made 300 ETH doing so!
-
-{% hint style="info" %}
-Link: [https://twitter.com/bertcmiller/status/1381296074086830091?s=20](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
-{% endhint %}
 

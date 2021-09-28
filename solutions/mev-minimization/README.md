@@ -4,17 +4,27 @@ description: MEV minimization and prevention solutions.
 
 # MEV Minimization
 
-### Conveyor - The Automata Network approach to tackling MEV <a id="conveyor-the-automata-network-approach-to-tackling-mev"></a>
+#### Here are various solutions in MEV minimization:
 
-* ![](../../.gitbook/assets/image%20%283%29.png) [Conveyor](conveyor-automata-network.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[Fair sequencing service](fair-sequencing-service-chainlink.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[Arbitrum](arbitrum-offchain-labs.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[Vega protocol](vega-protocol.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[CowSwap](cowswap.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[Veedo](veedo-starkware.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[LibSubmarine](libsubmarine.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[Sikka](sikka.md)
-* ![](../../.gitbook/assets/image%20%283%29.png)[Shutter Network](shutter-network.md)
+{% page-ref page="conveyor-automata-network.md" %}
+
+{% page-ref page="fair-sequencing-service-chainlink.md" %}
+
+{% page-ref page="arbitrum-offchain-labs.md" %}
+
+{% page-ref page="vega-protocol.md" %}
+
+{% page-ref page="cowswap.md" %}
+
+{% page-ref page="veedo-starkware.md" %}
+
+{% page-ref page="libsubmarine.md" %}
+
+{% page-ref page="sikka.md" %}
+
+{% page-ref page="shutter-network.md" %}
+
+
 
 ### ![&#x1F6E1;](https://twemoji.maxcdn.com/v/latest/svg/1f6e1.svg)  <a id="arbitrum-by-offchain-labs"></a>
 

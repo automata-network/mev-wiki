@@ -19,7 +19,7 @@ See how you can contribute [here](contributions.md).
 
 Maximal \(formerly "miner" in the context of Proof of Work\) extractable value \(MEV\) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by censoring and/or changing the order of transactions in a block.
 
-When someone sends a transaction in the blockchain, there is a delay between the time when the transaction is being broadcast to the network and when it is actually mined into a block. During this period, transactions sit in a pending transaction pool called the mempool where contents are visible to everyone. Arbitrageurs and miners can monitor the mempool and find opportunities to maximize their own profits e.g. by frontrunning transactions. If a front-runner is a miner, they can also reorder or even censor transactions. MEV income can also be shared with non-miners and traders who participate in some profit sharing schemes within the category of [FaaS/MEVA](solutions/faas-or-meva/).
+When someone sends a transaction in the blockchain, there is a delay between the time when the transaction is being broadcast to the network and when it is actually mined into a block. During this period, transactions sit in a pending transaction pool called the mempool where contents are visible to everyone. Arbitrageurs and miners can monitor the mempool and find opportunities to maximize their own profits e.g. by front-running transactions. If a front-runner is a miner, they can also reorder or even censor transactions. MEV income can also be shared with non-miners and traders who participate in some profit sharing schemes within the category of [FaaS/MEVA](solutions/faas-or-meva/).
 
 
 

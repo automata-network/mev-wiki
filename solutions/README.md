@@ -2,7 +2,7 @@
 
 ## Different approaches to tackling the MEV problem <a id="different-approaches-to-tackling-the-mev-problem"></a>
 
-There are largely two schools of thought when it comes to approaching the MEV problem
+There are largely two schools of thought when it comes to approaching the MEV problem:
 
 1. ![](../.gitbook/assets/image%20%2810%29.png)**Offense** - MEV is here to stay so let's find a way to extract and democratize it.
 2. ![](../.gitbook/assets/image%20%283%29.png)**Defense** - MEV is bad so let's try to prevent it.

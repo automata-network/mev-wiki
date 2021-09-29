@@ -21,7 +21,7 @@
 * [Attempts to trick the bots](attempts-to-trick-the-bots/README.md)
   * [Salmonella](attempts-to-trick-the-bots/salmonella.md)
   * [Kattana](attempts-to-trick-the-bots/kattana.md)
-  * [Other attempts to trick the bot](attempts-to-trick-the-bots/other-attempts-to-trick-the-bot.md)
+  * [Other attempts](attempts-to-trick-the-bots/other-attempts-to-trick-the-bot.md)
 * [Solutions](solutions/README.md)
   * [Front-running as a Service \(FaaS\) or MEV Auctions \(MEVA\)](solutions/faas-or-meva/README.md)
     * [Private Transactions](solutions/faas-or-meva/private-transactions.md)

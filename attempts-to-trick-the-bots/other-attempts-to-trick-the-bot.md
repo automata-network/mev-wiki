@@ -18,11 +18,11 @@ To be even more secure, bots will simulate their transactions on local infrastru
 
 #### Simulation vs Reality <a id="simulation-vs-reality"></a>
 
-Some really smart people found weaknesses among all of these defences.
+Some really smart people found weaknesses among all of these defenses.
 
 The first defense was that simulation was done with an ERC20 transfer function that checked to see if the block was a mined by Flashbots' miners, and if so it transfers way less out. Local simulations look fine but do not work in production.
 
-#### The second defence - Payment only on a sell transaction <a id="the-second-defence-payment-only-on-a-sell-transaction"></a>
+#### The second defense - Payment only on a sell transaction <a id="the-second-defense-payment-only-on-a-sell-transaction"></a>
 
 Again: Sandwich bots make miner payments conditional on profit. That was broken by making the ERC20 token pay the miner. Thus even with the Sandwich bot sell transaction failing, the miner would still get paid!
 

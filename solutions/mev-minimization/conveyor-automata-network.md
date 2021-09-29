@@ -8,7 +8,7 @@ At Automata, we have created **Conveyor**, a service that ingests and outputs tr
 
 When transactions are fed into Conveyor, it determines the order of the incoming transactions and makes it impossible for block producers to perform the following:
 
-1. Inject new transactions into the Conveyor output: The inserted transactions bypassing Conveyor is detectable by anyone because of signature mismatch.
+1. Inject new transactions into the Conveyor output: The inserted transactions bypassing Conveyor are detectable by anyone because of signature mismatch.
 2. Delete ordered transactions: Transactions accepted by Conveyor are broadcasted everywhere so transactions cannot be deleted unless ALL block producers are colluding and censoring the transactions at the same time.
 
 From the DEX’s perspective, they can choose to accept either
@@ -23,13 +23,13 @@ Automata’s Conveyor runs on a decentralized compute plane backed by many Geode
 * The Geode code is untampered with
 * The Geode data is inaccessible to even Geode providers \(In which case they cannot act on said data to front-run transactions\)
 
-Importantly, Automata’s Conveyor is a chain-agnostic solution to the MEV issue, and works seamlessly on various platforms — zero modifications needed.
+Importantly, Automata’s Conveyor is a chain-agnostic solution to the MEV issue and works seamlessly on various platforms — zero modifications needed.
 
 #### An industry-first: Oblivious RAM <a id="an-industry-first-oblivious-ram"></a>
 
 In fully public computation, access pattern leakage is not negligible as everything is exposed. But in privacy-preserving computation, any tiny bit of information leakage becomes a significant issue. Studies have shown that access pattern leakage leads to exposure of sensitive information such as private keys from searchable encryption and trusted computing.
 
-This is where the Oblivious RAM algorithm comes into play. Automata’s implementation is the first-of-its-kind in the blockchain industry, providing an exceedingly high degree of privacy in dApps.
+This is where the Oblivious RAM algorithm comes into play. Automata’s implementation is the first of its kind in the blockchain industry, providing an exceedingly high degree of privacy in dApps.
 
 This greatly reduces the probability of user privacy being leaked even as access patterns are being monitored and analyzed by malicious actors. The Automata team has authored multiple research papers on state-of-the-art ORAM and hardware technologies to enhance the privacy and performance of existing networks.
 

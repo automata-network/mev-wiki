@@ -4,7 +4,7 @@
 
 Shutter Network is an open-source project that aims to prevent frontrunning and malicious MEV on Ethereum by using a threshold cryptography-based distributed key generation \(DKG\) protocol.
 
-A Shutter transaction is a transaction protected from frontrunning in the target smart contract system. It therefore passes through a sequence of stages before it is executed.
+A Shutter transaction is a transaction protected from front running in the target smart contract system. It, therefore, passes through a sequence of stages before it is executed.
 
 A Shutter transaction flow:
 

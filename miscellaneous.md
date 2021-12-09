@@ -2,7 +2,7 @@
 
 ### What Happens when Ethereum moves to Proof-of-Stake? <a id="what-happens-when-ethereum-moves-to-proof-of-stake"></a>
 
-The move from PoW to PoS consensus means the Ethereum network becomes secured by a set validators, who stake their ETH and vote on consensus, as opposed to miners who run mining equipment to solve for the proof of work. This change of consensus is set to happen likely some time in 2021. Some have suggested that this means Miner Extractable Value will become Validator Extractable Value.
+The move from PoW to PoS consensus means the Ethereum network becomes secured by a set of validators, who stake their ETH and vote on consensus, as opposed to miners who run mining equipment to solve for the proof of work. This change of consensus is set to happen likely sometime in 2021. Some have suggested that this means Miner Extractable Value will become Validator Extractable Value.
 
 {% hint style="info" %}
 This is an ongoing discussion and you can follow this here:  
